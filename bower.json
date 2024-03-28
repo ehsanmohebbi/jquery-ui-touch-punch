@@ -1,6 +1,6 @@
 {
   "name": "jqueryui-touch-punch",
-  "version": "0.2.3",
+  "version": "2.0.0",
   "main": "jquery.ui.touch-punch.min.js",
   "ignore": [],
   "dependencies": {
